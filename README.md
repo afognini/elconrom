@@ -1,6 +1,6 @@
 # ElConRoM
 
-**El**\ ectronically\ **Con**\ trolled\ **Ro**\ tation\ **M**\ ount. The objective of this project was to build an easy to use, accurate, and inexpensive rotation mount for waveplates to be used in quantum tomography experiments.
+**El**ectronically**Con**trolled**Ro**tation**M**ount. The objective of this project was to build an easy to use, accurate, and inexpensive rotation mount for waveplates to be used in quantum tomography experiments.
 
 # Full Documentation
 
